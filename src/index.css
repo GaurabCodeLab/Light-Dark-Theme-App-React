@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid white !important;
+    border-radius: 10px !important;
+}
